@@ -1,0 +1,19 @@
+#leaderboard, #header, #header-bottom,
+#region1-container, #region2-container, #region3-container,
+#region4-container, #region5-container,
+#sidebar-right, #sidebar-left, #sidebar-outside,
+#mastfoot, #trailerboard, #footer {
+	display: none;
+}
+
+#mainContent {
+	position: static;
+	left: 0;
+	padding: 0;
+	margin: 0;
+	width: auto;
+	float: none;
+	clear: both;
+	background: none;
+}
+
